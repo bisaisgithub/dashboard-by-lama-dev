@@ -1,3 +1,7 @@
+Dashboard by Lama Dev in youtube https://www.youtube.com/watch?v=yKV1IGahXqA&t=361s
+i just converted it to nextjs
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
