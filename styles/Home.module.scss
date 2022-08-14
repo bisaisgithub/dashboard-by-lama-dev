@@ -1,3 +1,7 @@
-.test{
-  color: red;
+.home{
+  display: flex;
+
+  .home_container{
+    flex: 6;
+  }
 }
